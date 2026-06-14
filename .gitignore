@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+**/out/
+
+# Bundled JavaFX runtime (platform-specific; download the JavaFX SDK instead)
+**/lib/
+
+# Shell scripts
+*.sh
+
+# Editor / tooling
+.claude/
+.idea/
+.vscode/
+*.iml
+.DS_Store
